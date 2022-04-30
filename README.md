@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @whoisHarshitasingh
 - 👀 I’m interested in Web Application Development 
-- 🌱 I’m currently learning javaScript 
+- 🌱 I’m currently learning javaScript and php
 - 💞️ I’m looking to collaborate on projects 
+- Ping me on- sharshitasingh308@gmail.com
 - 📫 How to reach me 
 https://www.linkedin.com/in/harshita-singh-083245195
 <!---
